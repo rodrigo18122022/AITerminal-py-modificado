@@ -42,9 +42,9 @@ class AiTerminalCLI(cmd.Cmd):
 
     intro = Fore.CYAN + """
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                         AITERMINAL ENHANCED CLI                             ║
+║                         AITERMINAL ENHANCED CLI                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  Modern Terminal Interface with AI Support                                  ║
+║  Modern Terminal Interface with AI Support                                   ║
 ║                                                                              ║
 ║  SYSTEM INFORMATION                                                          ║
 ║  ─────────────────────────────────────────────────────────────────────────   ║
